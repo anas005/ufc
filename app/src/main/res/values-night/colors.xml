@@ -1,0 +1,9 @@
+<resources>
+    <color name="win_green">#66BB6A</color>
+    <color name="avatar_placeholder">#303033</color>
+    <color name="surface_background">#121212</color>
+    <color name="surface_card">#1E1E1E</color>
+    <color name="surface_ink">#F1F1F1</color>
+    <color name="surface_subtle">#A9A9AE</color>
+    <color name="surface_divider">#3A3A3C</color>
+</resources>

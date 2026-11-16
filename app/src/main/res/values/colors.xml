@@ -1,0 +1,20 @@
+<resources>
+    <color name="ufc_red">#B83630</color>
+    <color name="ufc_dark_red">#9A2C27</color>
+    <color name="win_green">#348A45</color>
+    <color name="surface_light">#F8F9FA</color>
+    <color name="surface_dark">#121212</color>
+    <color name="subtle_light">#70757A</color>
+    <color name="subtle_dark">#A9A9AE</color>
+    <color name="divider_light">#DADCE0</color>
+    <color name="divider_dark">#3A3A3C</color>
+    <color name="ink_light">#202124</color>
+    <color name="ink_dark">#F1F1F1</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="avatar_placeholder">#EDEDED</color>
+    <color name="surface_background">#F8F9FA</color>
+    <color name="surface_card">#FFFFFFFF</color>
+    <color name="surface_ink">#202124</color>
+    <color name="surface_subtle">#70757A</color>
+    <color name="surface_divider">#DADCE0</color>
+</resources>

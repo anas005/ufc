@@ -1,0 +1,3 @@
+sdk.dir=/path/to/Android/Sdk
+UFCAL_BASE_URL=https://api.ufcalendar.com/
+UFCAL_API_KEY=your_api_key

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": 3,
+    "slug": "fighter-three",
+    "name": "Fixture Fighter Three",
+    "records": {
+      "pro_mma": {"value": "8-2-0"}
+    },
+    "images": []
+  },
+  "meta": {}
+}

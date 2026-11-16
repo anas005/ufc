@@ -1,0 +1,22 @@
+{
+  "data": {
+    "id": 1,
+    "slug": "fighter-one",
+    "name": "Fixture Fighter One",
+    "records": {
+      "ufc": {"value": "5-1-0"}
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/example.jpg",
+        "width": 600,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "artist": "Fixture Artist",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fixture.jpg"
+      }
+    ]
+  },
+  "meta": {}
+}
